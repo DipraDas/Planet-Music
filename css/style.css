@@ -38,4 +38,11 @@
     background-color: red;
     border-radius: 50%;
 }
-/*********** SECTION-3 ***********/
+/*********** SECTION-4 ***********/
+ .ios{
+    background-image: linear-gradient(to right,#110F10, #0F0D10);
+  }
+.logo{
+    font-size: 80px;
+}
+/*********** SECTION-5 ***********/
