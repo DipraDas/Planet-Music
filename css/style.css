@@ -4,7 +4,7 @@
     font-family: 'Lato', sans-serif;
 }
 
-/* HEADER */
+/********** HEADER *********/
 .header{
     background-image: url(../images/red-guitar.jpg);
     background-size: cover;
@@ -12,13 +12,29 @@
     background-position: center;
     height: 100vh;
 }
-
 .nav-bg{
     background-image: linear-gradient(to bottom right, rgba(0,0,0,0.6), rgba(0,0,0,.1));
 }
-
 .custom-p{
     font-size: 16px;
     letter-spacing: 1px;
     color: rgb(49, 49, 49);
+}
+
+/************ MAIN **********/
+/*********** SECTION-2 ***********/
+.art{
+    background: rgba(0,0,0,0.3)url(../images/singer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-blend-mode: darken;
+    height: 680px;
+}
+.art-btn{
+    color: white;
+    font-size: 30px;
+    padding: 15px;
+    background-color: red;
+    border-radius: 50%;
 }
