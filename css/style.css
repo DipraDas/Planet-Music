@@ -24,12 +24,10 @@
 /************ MAIN **********/
 /*********** SECTION-2 ***********/
 .art{
-    background: rgba(0,0,0,0.3)url(../images/singer.jpg);
-    background-repeat: no-repeat;
+    background-image: url(../images/singer.jpg);
+    background-position: center;
     background-size: cover;
-    background-position: top;
-    background-blend-mode: darken;
-    height: 680px;
+    background-attachment: fixed;
 }
 .art-btn{
     color: white;
@@ -45,6 +43,12 @@
 .logo{
     font-size: 80px;
 }
+/*********** SECTION-7 ***********/
+.events{
+    background-image: url(../images/promo.jpg);
+    background-position: center;
+    background-attachment: fixed;
+}
 /*********** SECTION-8 ***********/
 .meet{
     background-color: #242B35;
@@ -54,7 +58,7 @@
 }
 
 
-
+/*********** Footer **********/
 .footer-p{
     font-size: 14px;
 }
