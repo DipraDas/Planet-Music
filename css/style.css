@@ -45,8 +45,13 @@
 .logo{
     font-size: 80px;
 }
-/*********** SECTION-5 ***********/
-
+/*********** SECTION-8 ***********/
+.meet{
+    background-color: #242B35;
+}
+.meet-back{
+    background-image: url(../images/back-ptn.png);
+}
 
 
 
