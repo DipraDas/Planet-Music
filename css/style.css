@@ -46,6 +46,7 @@
 /*********** SECTION-7 ***********/
 .events{
     background-image: url(../images/promo.jpg);
+    background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
@@ -57,7 +58,14 @@
     background-image: url(../images/back-ptn.png);
 }
 
-
+/*********** SECTION-4 ***********/
+.pro-album{
+    background-image: url(../images/red-background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 180px 20px;
+}
 /*********** Footer **********/
 .footer-p{
     font-size: 14px;
