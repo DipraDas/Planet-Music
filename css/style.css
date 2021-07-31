@@ -1,3 +1,4 @@
+/* STYLE CSS FILE */
 *{
     margin: 0;
     padding: 0;
@@ -21,8 +22,6 @@
     color: rgb(49, 49, 49);
 }
 
-
-
 /************ MAIN **********/
 /*********** SECTION-2 ***********/
 .art{
@@ -38,6 +37,7 @@
     background-color: red;
     border-radius: 50%;
 }
+
 /*********** SECTION-4 *********/
 .pro-album{
     background-image: url(../images/red-background.jpg);
@@ -46,30 +46,34 @@
     background-attachment: fixed;
     padding: 180px 20px;
 }
+
 /*********** SECTION-6 ***********/
  .ios{
     background-image: linear-gradient(to right,#110F10, #0F0D10);
-  }
+}
 .logo{
     font-size: 80px;
 }
-/*********** SECTION-7 ***********/
+
+/*********** SECTION-8 ***********/
+.android{
+    background-color: #191919;
+}
+
+/*********** SECTION-10 ***********/
 .events{
     background-image: url(../images/promo.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
-/*********** SECTION-8 ***********/
+
+/*********** SECTION-11 ***********/
 .meet{
     background-color: #242B35;
 }
 .meet-back{
     background-image: url(../images/back-ptn.png);
-}
-
-.android{
-    background-color: #191919;
 }
 
 /*********** Footer **********/
