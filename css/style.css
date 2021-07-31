@@ -21,6 +21,8 @@
     color: rgb(49, 49, 49);
 }
 
+
+
 /************ MAIN **********/
 /*********** SECTION-2 ***********/
 .art{
@@ -36,7 +38,15 @@
     background-color: red;
     border-radius: 50%;
 }
-/*********** SECTION-4 ***********/
+/*********** SECTION-4 *********/
+.pro-album{
+    background-image: url(../images/red-background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 180px 20px;
+}
+/*********** SECTION-6 ***********/
  .ios{
     background-image: linear-gradient(to right,#110F10, #0F0D10);
   }
@@ -58,14 +68,7 @@
     background-image: url(../images/back-ptn.png);
 }
 
-/*********** SECTION *********/
-.pro-album{
-    background-image: url(../images/red-background.jpg);
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-    padding: 180px 20px;
-}
+
 /*********** Footer **********/
 .footer-p{
     font-size: 14px;
