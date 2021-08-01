@@ -39,6 +39,9 @@
 }
 
 /*********** SECTION-4 *********/
+.p-album{
+    border-radius: 80px 0px 120px 0px;
+}
 .pro-album{
     background-image: url(../images/red-background.jpg);
     background-position: center;
